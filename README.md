@@ -17,4 +17,4 @@ Due to the typographical and labeling inconsistencies of the corpus, the origina
 * Find matching phrases between the hip hop corpus and influential literary works (Old Testament, New Testament, Koran, commonly quoted lines from literature)
 * A network graph (maybe one day?)
 
-Lyrics courtesy off the [Original Hip Hop Lyrics Archive](www.ohhla.com)
+Lyrics courtesy of the [Original Hip Hop Lyrics Archive](www.ohhla.com)
